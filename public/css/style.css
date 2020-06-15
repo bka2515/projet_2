@@ -1,0 +1,98 @@
+.img1{
+    width: 100%;
+    height: 100%;
+}
+p{
+    position: absolute;
+    font-size: 18px;
+    top: 2%;
+    left: 10%;
+    color: white;
+}
+body{
+    background-image: url(../images/balou.JPG);
+}
+h3{
+    left: 20%;
+    top: 2%;
+    color: rgb(197, 193, 193);
+    position: relative;
+}
+a{
+    color: silver;
+    font-size: 20px;
+    left: 20%;
+    position: relative;
+}
+.img2{
+    width: 8%;
+    height: 30%;
+    left: 2%;
+    top: 14%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0%;
+}
+.img3{
+    width: 90px;
+    height: 90px;
+    left: 0%;
+    top: -30%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0%;
+}
+.row{
+    margin-top: 2%;
+    width: 40%;
+    border-radius: 8px;
+    position: center;
+    height: 500px;
+    left: 50%;
+    background-color: white;
+    position: relative;
+    box-shadow: 0 2px 14px rgb(206, 21,21);
+    opacity: 8px;
+}
+.col-md-12{
+    width: 40%;
+    border-radius: 8px;
+    position: center;
+    height: 100px;
+    background-color: darkturquoise;
+}
+
+
+.col-md-5{
+    margin-top: 2%;
+    width: 40%;
+    border-radius: 8px;
+    position: center;
+    height: auto;
+    left: 40%;
+    background-color: white;
+    position: relative;
+    box-shadow: 0 2px 14px rgb(206, 21,21);
+    opacity: 8px;
+}
+.custom-file-input{
+    background-color: white !important;
+}
+.custom-file-input{
+    background-color: tomato;
+    position: relative;
+}
+.toast-body{
+    color: red;
+    position: absolute;
+    top: -160%;
+    left: 50%;
+    font-size: 16px;
+}
+.error{
+    color: red;
+    position: absolute;
+    top: 68%;
+    left: 36%;
+    font-size: 12px;
+}
